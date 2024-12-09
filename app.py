@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Lista de usuários autorizados
 usuarios_autorizados = [
-     "leda1","aleandro",
+  "aleandro",
 ]
 
 # Dicionário para rastrear visitas dos usuários
